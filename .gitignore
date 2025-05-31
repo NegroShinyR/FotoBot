@@ -1,0 +1,12 @@
+# Ignorar archivo de configuración con el token
+.env
+
+# Ignorar base de datos local de usuarios
+usuarios.db
+
+# Ignorar carpeta de archivos personales de usuarios
+fotos/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
